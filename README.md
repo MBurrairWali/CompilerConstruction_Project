@@ -1,8 +1,8 @@
-#Class_ID 106395: Compiler Construction Project #
+# Class_ID 106395: Compiler Construction Project #
 <!-- The 6-Digits is Our Course ID-->
 ## Instructor: Sir Farooq Zaidi 
 
-###PROJECT MEMBERS###
+### PROJECT MEMBER ###
 STD_ID | STD_Name
 ------------ | -------------
 **62163** | **M.Burrair Wali** 
