@@ -1,5 +1,6 @@
 #Class_ID 106395: Compiler Construction Project #
 <!-- The 6-Digits is Our Course ID-->
+## Instructor: Sir Farooq Zaidi 
 
 ###PROJECT MEMBERS###
 STD_ID | STD_Name
@@ -13,8 +14,4 @@ It's a simple Tiny C compiler that uses a flex file to describe its tokens, whi
 ## Sample Language Used ##
 Replace this text with the desription of what was your sample language. You may include some code examples of loops, if and simple statements.
 
-## Instructor: Sir Farooq Zaidi 
 
-- #### Name: M.Burrair Wali 
-- #### StudentID: 62163
-- #### CourseID: 106395
