@@ -24,7 +24,7 @@ for(int i=0; i<10 ; i++){
 Replace this text with a complete lexical specification of your selected programming language.
 
 ## Problems Faced##
-
+The Main problem i faced is i was expecting i will get a partner so we could divide our project but at last i didn't get anyone. For me its new for us to make project on compiler as we heard from the starting semester CC is hard Course also i dodn't like or i was not good in automata so this course was quite unintrested. There was less material regarding what we need and the coding languge was little difficult becuase its near to low level language. There is also one more problem in starting i didn't know what i ahve to do but after giving time i was able to complete it even though i'm not perfect but i try my best.
 
 ### Problem 1: It's true we didn't learn with our heart and mind, how to code, because we didn't planed to code in our childhood. ###
 As speaking truth not behaving to anyone, Right Now we have less choice to move anywhere and  instead of coding we can pursue our carrier in other fileds of Information Technology as it's has vast areas.
@@ -34,10 +34,10 @@ well i can write so much in this particular fields as well as i can describe mor
  
 
 ## References##
-- .
-- Use bullets like this.
-- Mention all references. Plagiarism will not be tolerated.
-- You see markdown is not that difficult.
-- You are CS students not some tom harry from BBA SHE-B-A :-).
-- You can and must learn to use markdown and Github. 
-- All future project development will be down in something similar to GITHUB
+- 
+- 
+- 
+- 
+- 
+-  
+- 
