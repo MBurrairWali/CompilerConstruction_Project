@@ -24,14 +24,14 @@ for(int i=0; i<10 ; i++){
 Replace this text with a complete lexical specification of your selected programming language.
 
 ## Problems Faced##
-Replace this text with the explaination of the problems you faced in the project, and how you resolved them. Again you can give each of your problems a heading of level 3.
 
-### Problem 1: I don't know how to Code###
-Transfer to yourself to social sciences department. Blah blah blah. This is an example. Replace it with your own problem description and how you resolved it. 
-Don't just blindly copy paste this report. This is a sample template file. 
 
-### Problem 2: My Parents forced me for a degree###
-If you were not able to convince your parents not to force you for degree and now you are doing it for them then do it with your best effort and not half heartedly. There is no point wasting this time with finding a loop hole here and there and passing courses without actually learning anything.  
+### Problem 1: It's true we didn't learn with our heart and mind, how to code, because we didn't planed to code in our childhood. ###
+As speaking truth not behaving to anyone, Right Now we have less choice to move anywhere and  instead of coding we can pursue our carrier in other fileds of Information Technology as it's has vast areas.
+
+### Problem 2: The Main and and actual problem is our intermediate marks brings here in this field as i think sometimes, even i can debate on this because our education policy is too worst we judged by our marks not by our ability ###
+well i can write so much in this particular fields as well as i can describe more but if i see its also our fault i don't know, why i dont like to read books or study well, for getting marks.
+ 
 
 ## References##
 - .
