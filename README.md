@@ -55,7 +55,7 @@ The Main problem i faced is i was expecting i will get a partner so we could div
 As speaking truth not behaving to anyone, Right Now we have less choice to move anywhere and  instead of coding we can pursue our carrier in other fileds of Information Technology as it's has vast areas.
 
 ### Problem 2: The Main and and actual problem is our intermediate marks brings here in this field as i think sometimes, even i can debate on this because our education policy is too worst we judged by our marks not by our ability ###
-well i can write so much in this particular fields as well as i can describe more but if i see its also our fault i don't know, why i dont like to read books or study well, for getting marks.
+Well i can write so much in this particular fields as well as i can describe more but if i see its also our fault i don't know, why i dont like to read books or study well, for getting marks.
  
 
 ## References ##
