@@ -14,14 +14,34 @@ It's a simple Tiny C compiler that uses a flex file to describe its tokens, whi
 ## Sample Language Used ##
 Replace this text with the desription of what was your sample language. You may include some code examples of loops, if and simple statements.
 
-# include <some code examples.h>
-printf("This is a loop example!");
-for(int i=0; i<10 ; i++){
-    printf("Please Allah Forgive me. I cheated in exam while fasting!");
+# include
+#include<stdio.h>
+int yywrap() {
+    return 1;
+}
+int main(int argc,char *argv[])
+{
+if (argc > 1)
+{
+    FILE *fp;    
+    fp = fopen(argv[1], "r");
+	printf("Read File %s",argv[1]);
+//    fp=fopen(argv[2],"w");     
+    if (!fp)
+    {
+        fprintf(stderr, "failed open");
+        exit(1);
+    }
+   yyin = fp;   
+}
+printf("Start Scaning\n");
+printf("Enter Input:\n");
+yylex();
+return 0; 
 }
                   
 ### Lexical Specification###
-Replace this text with a complete lexical specification of your selected programming language.
+"Keywords", "Identifiers - a,b", "Digits - 0-9", "Exponential", "if else", "While", "return", "void", "string/int/float/double", "Operators -+/etc", "Bracket - ()", "Square Brackets - []", "Braces - {}", "Comma - ,", "Semi-Colon - ;", "WhiteSapce - ", "Dot - .", "int Const", "real const"
 
 ## Problems Faced##
 The Main problem i faced is i was expecting i will get a partner so we could divide our project but at last i didn't get anyone. For me its new for us to make project on compiler as we heard from the starting semester CC is hard Course also i dodn't like or i was not good in automata so this course was quite unintrested. There was less material regarding what we need and the coding languge was little difficult becuase its near to low level language. There is also one more problem in starting i didn't know what i ahve to do but after giving time i was able to complete it even though i'm not perfect but i try my best.
@@ -34,7 +54,7 @@ well i can write so much in this particular fields as well as i can describe mor
  
 
 ## References##
-- 
+- https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/
 - 
 - 
 - 
