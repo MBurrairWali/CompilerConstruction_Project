@@ -533,8 +533,8 @@ int yy_flex_debug = 0;
 #define YY_MORE_ADJ 0
 #define YY_RESTORE_YY_MORE_OFFSET
 char *yytext;
-#line 1 "wali.f"
-#line 24 "wali.f"
+#line 1 "waliccp.l"
+#line 24 "waliccp.l"
 
 #include <stdio.h> 
 
@@ -771,7 +771,7 @@ YY_DECL
 		}
 
 	{
-#line 44 "wali.f"
+#line 44 "waliccp.l"
 
 
 
@@ -846,198 +846,198 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 49 "wali.f"
+#line 49 "waliccp.l"
 {printToken("Keyword"); }
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
-#line 51 "wali.f"
+#line 51 "waliccp.l"
 {printToken("Keyword");}
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 53 "wali.f"
+#line 53 "waliccp.l"
 {printToken("Keyword");}
 	YY_BREAK
 case 4:
 YY_RULE_SETUP
-#line 55 "wali.f"
+#line 55 "waliccp.l"
 {printToken("Keyword");}
 	YY_BREAK
 case 5:
 YY_RULE_SETUP
-#line 57 "wali.f"
+#line 57 "waliccp.l"
 {printToken("keyword");}
 	YY_BREAK
 case 6:
 YY_RULE_SETUP
-#line 59 "wali.f"
+#line 59 "waliccp.l"
 {printToken("int_lit");}
 	YY_BREAK
 case 7:
 YY_RULE_SETUP
-#line 61 "wali.f"
+#line 61 "waliccp.l"
 {printToken("float_lit");}
 	YY_BREAK
 case 8:
 YY_RULE_SETUP
-#line 63 "wali.f"
+#line 63 "waliccp.l"
 {printToken("double_lit");}
 	YY_BREAK
 case 9:
 YY_RULE_SETUP
-#line 67 "wali.f"
+#line 67 "waliccp.l"
 {printToken("INC_OP");} 
 	YY_BREAK
 case 10:
 YY_RULE_SETUP
-#line 69 "wali.f"
+#line 69 "waliccp.l"
 {printToken("DEC_OP");} 
 	YY_BREAK
 case 11:
 YY_RULE_SETUP
-#line 71 "wali.f"
+#line 71 "waliccp.l"
 {printToken("PLUS_OP");}     
 	YY_BREAK
 case 12:
 YY_RULE_SETUP
-#line 73 "wali.f"
+#line 73 "waliccp.l"
 {printToken("MINUS_OP");}     
 	YY_BREAK
 case 13:
 YY_RULE_SETUP
-#line 75 "wali.f"
+#line 75 "waliccp.l"
 {printToken("STAR_OP");}     
 	YY_BREAK
 case 14:
 YY_RULE_SETUP
-#line 77 "wali.f"
+#line 77 "waliccp.l"
 {printToken("SLASH_OP");}     
 	YY_BREAK
 case 15:
 YY_RULE_SETUP
-#line 79 "wali.f"
+#line 79 "waliccp.l"
 {printToken("LESS_THAN_OP");}     
 	YY_BREAK
 case 16:
 YY_RULE_SETUP
-#line 81 "wali.f"
+#line 81 "waliccp.l"
 {printToken("LESS_THAN_EQUAL_OP");} 
 	YY_BREAK
 case 17:
 YY_RULE_SETUP
-#line 83 "wali.f"
+#line 83 "waliccp.l"
 {printToken("GREATER_THAN_OP");}     
 	YY_BREAK
 case 18:
 YY_RULE_SETUP
-#line 85 "wali.f"
+#line 85 "waliccp.l"
 {printToken("GREATER_THAN_EQUAL_OP");} 
 	YY_BREAK
 case 19:
 YY_RULE_SETUP
-#line 87 "wali.f"
+#line 87 "waliccp.l"
 {printToken("EQUAL_OP");} 
 	YY_BREAK
 case 20:
 YY_RULE_SETUP
-#line 89 "wali.f"
+#line 89 "waliccp.l"
 {printToken("NOT_EQUAL_OP");} 
 	YY_BREAK
 case 21:
 YY_RULE_SETUP
-#line 91 "wali.f"
+#line 91 "waliccp.l"
 {printToken("ASSIGNMENT_OP");}     
 	YY_BREAK
 case 22:
 YY_RULE_SETUP
-#line 95 "wali.f"
+#line 95 "waliccp.l"
 {printToken("OPEN_SQUARE_BRACKET");}
 	YY_BREAK
 case 23:
 YY_RULE_SETUP
-#line 97 "wali.f"
+#line 97 "waliccp.l"
 {printToken("CLOSE_SQUARE_BRACKET");}
 	YY_BREAK
 case 24:
 YY_RULE_SETUP
-#line 99 "wali.f"
+#line 99 "waliccp.l"
 {printToken("OPEN_BRACE");}
 	YY_BREAK
 case 25:
 YY_RULE_SETUP
-#line 101 "wali.f"
+#line 101 "waliccp.l"
 {printToken("CLOSE_BRACE");}
 	YY_BREAK
 case 26:
 YY_RULE_SETUP
-#line 103 "wali.f"
+#line 103 "waliccp.l"
 {printToken("SEMI_COLON");}
 	YY_BREAK
 case 27:
 YY_RULE_SETUP
-#line 105 "wali.f"
+#line 105 "waliccp.l"
 {printToken("COMMA");}
 	YY_BREAK
 case 28:
 YY_RULE_SETUP
-#line 107 "wali.f"
+#line 107 "waliccp.l"
 {printToken("OPEN_BRACKET");}
 	YY_BREAK
 case 29:
 YY_RULE_SETUP
-#line 109 "wali.f"
+#line 109 "waliccp.l"
 {printToken("ClOSE_BRACKET");}
 	YY_BREAK
 case 30:
 YY_RULE_SETUP
-#line 113 "wali.f"
+#line 113 "waliccp.l"
 {printToken("ID");}
 	YY_BREAK
 case 31:
 YY_RULE_SETUP
-#line 115 "wali.f"
+#line 115 "waliccp.l"
 {printToken("DIGIT");}
 	YY_BREAK
 case 32:
 /* rule 32 can match eol */
 YY_RULE_SETUP
-#line 119 "wali.f"
+#line 119 "waliccp.l"
 {printToken("White_Space");}
 	YY_BREAK
 case 33:
 YY_RULE_SETUP
-#line 121 "wali.f"
+#line 121 "waliccp.l"
 {printToken("dot");}
 	YY_BREAK
 case 34:
 YY_RULE_SETUP
-#line 123 "wali.f"
+#line 123 "waliccp.l"
 {printToken("exponent");}
 	YY_BREAK
 case 35:
 YY_RULE_SETUP
-#line 125 "wali.f"
+#line 125 "waliccp.l"
 {printToken("int_const");}
 	YY_BREAK
 case 36:
 YY_RULE_SETUP
-#line 127 "wali.f"
+#line 127 "waliccp.l"
 {printToken("real_const");}
 	YY_BREAK
 case 37:
 YY_RULE_SETUP
-#line 129 "wali.f"
+#line 129 "waliccp.l"
 {printToken("char_const");}
 	YY_BREAK
 case 38:
 YY_RULE_SETUP
-#line 131 "wali.f"
+#line 131 "waliccp.l"
 {printToken("string_const");}
 	YY_BREAK
 case 39:
 YY_RULE_SETUP
-#line 133 "wali.f"
+#line 133 "waliccp.l"
 ECHO;
 	YY_BREAK
 #line 1044 "lex.yy.c"
@@ -2057,7 +2057,7 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 133 "wali.f"
+#line 133 "waliccp.l"
 
 
 #include<stdio.h>
@@ -2106,3 +2106,4 @@ yylex();
 return 0; 
 
 }
+
