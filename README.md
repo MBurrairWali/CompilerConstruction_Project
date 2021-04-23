@@ -12,9 +12,9 @@ STD_ID | STD_Name
 It's a simple Tiny C compiler that uses a flex file to describe its tokens, which the YACC then parses from left to right.
 
 ## Sample Language Used ##
-Replace this text with the desription of what was your sample language. You may include some code examples of loops, if and simple statements.
 
-# include #
+
+# include#
 #include<stdio.h>
 int yywrap() {
     return 1;
