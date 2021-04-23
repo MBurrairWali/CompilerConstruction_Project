@@ -9,9 +9,14 @@ STD_ID | STD_Name
 <!--This is the Group Leader's Name and his ID in bold-->
 
 ## Project Description ##
-It's a simple Tiny C compiler that uses a flex file to describe its tokens, which the YACC then parses from left to right.
+It's a simple Tiny C (Sub- set of C) compiler that uses a flex file to describe its tokens, which the YACC then parses.
 
 ## Sample Language Used ##
+{
+   int i;
+   int j; 
+   a = (i * j)/2.0;
+}
 
 
 # include#
@@ -56,7 +61,7 @@ well i can write so much in this particular fields as well as i can describe mor
 ## References ##
 - https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/
 - https://youtu.be/Ql3drqJrR2Q
-- 
+- https://github.com/jacobgarcia/tinyc-compiler
 - 
 - 
 -  
